@@ -1,0 +1,6 @@
+train: Data/images/train  # Chemin vers le dossier des images d'entraînement
+val: Data/images/val    # Chemin vers le dossier des images de validation
+test: Data/images/test   #Chemin vers le dossier des images de test
+
+nc: 1  # Nombre de classes (1 pour "plaque")
+names: ['plaque']  # Noms des classes
