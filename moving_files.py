@@ -3,7 +3,7 @@ import shutil
 import random
 
 # Define paths
-dataset_dir = "/content/detection_plaques/Data"  # Root directory of your dataset
+dataset_dir = "Data"  # Root directory of your dataset
 images_dir = os.path.join(dataset_dir, "images")
 annotations_dir = os.path.join(dataset_dir, "annotations")
 
