@@ -1,0 +1,6 @@
+path: ./Data2
+train: images/train
+val: images/val
+
+nc: 1
+names: ['plaque']
